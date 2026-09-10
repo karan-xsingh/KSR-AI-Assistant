@@ -1,0 +1,10 @@
+.env
+KSR_gmail_token.json
+KSR_Face.pkl
+KSR_Memory.json
+KSR_Notes.txt
+KSR_Tasks.json
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
